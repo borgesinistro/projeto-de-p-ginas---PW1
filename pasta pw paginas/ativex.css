@@ -1,0 +1,25 @@
+.barracima{
+text-align:left;
+padding: 10px;
+background-color:white;
+display:flex;
+border: 1px solid black;
+}
+.barrapesquisa{
+   border-radius: 10px;
+   border-color:black; 
+   text-align:center;
+}
+.lupinha {
+    border-radius:10px;
+}
+.setinha{
+    border: 1px solid black;
+    border-radius:5px;
+    padding:1px 1px;
+    width:30px;
+    height:30px;
+}
+.atividade {
+    border:none
+}
